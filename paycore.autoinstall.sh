@@ -190,7 +190,7 @@ fi
 cd ~
 rm -rf /usr/local/bin/paycore*
 rm -rf daemon.zip
-https://github.com/PayCoreProject/PayCore/releases/download/1/daemon.zip
+wget https://github.com/PayCoreProject/PayCore/releases/download/1/daemon.zip
 unzip daemon.zip
 sudo chmod -R 755 paycore-cli
 sudo chmod -R 755 paycored

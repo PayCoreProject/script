@@ -119,6 +119,7 @@ sudo add-apt-repository ppa:bitcoin/bitcoin -y
 sudo apt-get -y update
 sudo apt-get -y install libdb4.8-dev libdb4.8++-dev -y
 sudo apt-get install unzip
+sudo apt install unzip
 sudo apt-get -y install libminiupnpc-dev
 sudo apt-get -y install fail2ban
 sudo service fail2ban restart

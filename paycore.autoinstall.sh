@@ -190,7 +190,7 @@ fi
 cd ~
 rm -rf /usr/local/bin/paycore*
 rm -rf daemon*
-wget https://github.com/PayCoreProject/PayCore/releases/download/1.1/daemon.zip
+wget https://github.com/PayCoreProject/PayCore/releases/download/1.2/daemon.zip
 unzip daemon.zip
 cd daemon/
 sudo chmod -R 755 paycore-cli

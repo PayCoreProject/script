@@ -47,7 +47,7 @@ function stop_daemon {
 genkey=$1
 clear
 
-echo -e "${GREEN} ------- e-Sport Betting Coin MASTERNODE INSTALLER v2.0.0--------+
+echo -e "${GREEN} ------- Paycore MASTERNODE INSTALLER v2.0.0--------+
  |                                                  |
  |                                                  |::
  |       The installation will install and run      |::
